@@ -52,4 +52,5 @@ func main(){
 
   const pi float32 = 3.1415
   fmt.Println(pi)
+
 }
